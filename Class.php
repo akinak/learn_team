@@ -18,6 +18,11 @@ class Main {
 
 
 class Sergey extends Main{
-   public $name = 'Sergey';
+	public $name = 'Sergey';
+
+}
+
+class Alex extends Main{
+	public $name = 'Alex';
 
 }
