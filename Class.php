@@ -21,3 +21,7 @@ class Sergey extends Main{
    public $name = 'Sergey';
 
 }
+
+class Anatolii extends Main{
+    public $name = 'Anatolii';
+}
