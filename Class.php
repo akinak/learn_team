@@ -9,10 +9,15 @@
 
 
 class Main {
-    public $foo;
+    public $name;
+
+    public function printHello(){
+        echo ($this->name);
+    }
 }
 
 
-class Child extends Main{
-    public $money = 100000;
+class Sergey extends Main{
+   public $name = 'Sergey';
+
 }
