@@ -19,6 +19,6 @@ class Main {
 
 class Sergey extends Main{
 
-   public $name = 'Pasha Sergey Manukovich Arevshatyans';
+   public $name = 'Pasha and Sergey Manukovich Arevshatyans';
 
 }
