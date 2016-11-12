@@ -16,9 +16,10 @@ class Main {
     }
 }
 
-
 class Sergey extends Main{
 
-   public $name = 'Dima';
+   public $name = 'Anton';
+
+   public $name = 'Pasha and Sergey Manukovich Arevshatyans';
 
 }
