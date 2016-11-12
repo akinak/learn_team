@@ -16,13 +16,11 @@ class Main {
     }
 }
 
-
 class Sergey extends Main{
-	public $name = 'Sedrgey';
 
-}
 
-class Alex extends Main{
-	public $name = 'Alex';
+   public $name = 'Anton';
+
+   public $name = 'Pasha and Sergey Manukovich Arevshatyans';
 
 }
