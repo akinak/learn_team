@@ -2,6 +2,6 @@
 include('Class.php');
 
 
-$class = new Sergey();
+$class = new Alex();
 
 $class->printHello();
