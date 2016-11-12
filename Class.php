@@ -17,7 +17,8 @@ class Main {
 }
 
 
-class Sergey extends Main{
-   public $name = 'Sergey';
+class Dima extends Main{
+   public $name = 'Dima';
 
 }
+
